@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Noxe-Movies/static/css/main.92c4d5a0.css",
+    "main.js": "/Noxe-Movies/static/js/main.8e4fd6a2.js",
+    "static/js/787.5d5ea81f.chunk.js": "/Noxe-Movies/static/js/787.5d5ea81f.chunk.js",
+    "index.html": "/Noxe-Movies/index.html",
+    "main.92c4d5a0.css.map": "/Noxe-Movies/static/css/main.92c4d5a0.css.map",
+    "main.8e4fd6a2.js.map": "/Noxe-Movies/static/js/main.8e4fd6a2.js.map",
+    "787.5d5ea81f.chunk.js.map": "/Noxe-Movies/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c4d5a0.css",
+    "static/js/main.8e4fd6a2.js"
+  ]
+}
