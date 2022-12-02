@@ -1,0 +1,12 @@
+.list_det ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+.list_det ul li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.list_det li {
+  list-style-type: none;
+}
